@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AppPrestamo</string>
+    <!-- LOGIN ACTIVITY-->
+    <string name="hint_userName">Username</string>
+    <string name="hint_userpassword">Password</string>
+    <string name="boton_ingresar">ingresar</string>
+    <string name="boton_recuperar_contrasenia">recuperar contraseña</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- MENU ACTIVITY-->
+
+    <!--NAVIGATOR CABESERA-->
+    <string name="user_name_nombre">Nombre</string>
+
+    <!-- NAVIGATOR VIEW  SETTINGS AND ITEMS-->
+    <!-- SETTINGS-->
+    <string name="action_settings">Settings</string>
+
+    <!-- ITEMS -->
+    <string name="item_prestamo">Prestamos</string>
+    <string name="item_cobrador">Cobradores</string>
+    <string name="item_nosotros">Contactanos</string>
+    <string name="item_seguridad">Seguridad</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_pago">Pagos</string>
+    <string name="item_pedido_prestamo">Solicitud Préstamo</string>
+
+    <!--    FRAGMENT SOLICITAR PRESTAMO FRAGMENT -->
+    <string name="titulo_fragment_solicitar_prestamo">SOLICITUD DE PRÉSTAMO</string>
+    <string name="txtDescripcion">Descripción</string>
+    <string name="txtPlata">Monto Solicitado</string>
+    <string name="boton_solicitar_prestamo">SOLICITAR</string>
+    <string name="mensaje_aceptar_terminos_y_condiciones">En las presentes Condiciones Generales, los siguientes términos tendrá el significado que se les atribuye a continuación:/n1.1.Préstamo: contrato regido por las siguientes Condiciones Generales, mediante el que el Prestamista concede un préstamo personal al Prestatario./nEl Préstamo se regirá por las Condiciones Generales y las Condiciones Particulares, la Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores, la Ley 16/2011, de 24 de junio, de Contratos de Créditos al Consumo, la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, así como demás normativa general de aplicación.</string>
+    <string name="boton_registrar">REGISTRARSE</string>
+
+    <!-- HINTS PARA REGISTRAR USUARIO -->
+    <string name="hint_apepat">Apellido Paterno</string>
+    <string name="hint_apemat">Apellido Materno</string>
+    <string name="hint_codigo">Código</string>
+    <string name="hint_telefono">Nro Teléfono</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_new_userpassword">New Password</string>
+    <string name="boton_aceptar">Aceptar</string>
+    <string name="item_serrar_sesion">Cerrar Sesión</string>
+    <string name="boton_cambiar_registros">ACTUALIZAR PERFIL</string>
+
+    <!-- AUXILIARES -->
+    <string name="no_existen_datos">No existen Datos</string>
+    <string name="item_perfil_usuario">Perfil Usuario</string>
+
+
+</resources>

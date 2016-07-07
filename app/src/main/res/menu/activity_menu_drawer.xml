@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/i_perfil_prestamo"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/item_perfil_usuario" />
+        <item
+            android:id="@+id/i_pedido_prestamo"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/item_pedido_prestamo" />
+        <item
+            android:id="@+id/i_prestamo"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/item_prestamo" />
+        <item
+            android:id="@+id/i_cobro"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/item_cobrador" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/i_contacto"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/item_nosotros" />
+            <item
+                android:id="@+id/i_seguridad"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_serrar_sesion" />
+        </menu>
+    </item>
+
+</menu>

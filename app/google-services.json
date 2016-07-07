@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410272885708",
+    "firebase_url": "https://senddata-dc67e.firebaseio.com",
+    "project_id": "senddata-dc67e",
+    "storage_bucket": "senddata-dc67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410272885708:android:78a5747bce8e4a0f",
+        "android_client_info": {
+          "package_name": "app.com.appprestamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410272885708-kecd9ggga62ketmeerh251ee59hrro7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48v31QNHaJ3B4rfHdmr6BlB2gGM1SpPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
